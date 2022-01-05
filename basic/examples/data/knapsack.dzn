@@ -1,0 +1,4 @@
+PRODUCT = {AXE, SWORD, PIKE, SPEAR, CLUB};
+capacity = 30;
+profit = [10, 20, 5, 6, 10];
+weight = [7, 9, 10, 15, 9];
